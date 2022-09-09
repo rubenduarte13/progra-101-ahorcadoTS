@@ -1,2 +1,12 @@
-# progra-101-ahorcadoTS
-Ejercicio del curso básico de programación de Fernando Herrera - Juego de ahorcado en React 
+# Juego de ahorcado
+Ejercicio del curso de programación para principiantes - Juego de ahorcado en React
+
+# Ejecutar:
+
+1. Clonar o descargar el código
+
+2. Ejecutar ``` npm install ```
+
+3. Ejecutar ``` npm run dev ```
+
+4. Abrir el ```localhost:3000``` o el url que muestre la consola
