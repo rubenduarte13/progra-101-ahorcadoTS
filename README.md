@@ -1,5 +1,6 @@
 # Juego de ahorcado
-Ejercicio del curso de programación para principiantes - Juego de ahorcado en React
+Ejercicio del curso de programación para principiantes - Juego de ahorcado en React - 
+Deploy : my-game-rd.netlify.app/
 
 # Ejecutar:
 
